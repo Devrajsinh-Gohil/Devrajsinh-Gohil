@@ -7,6 +7,8 @@
   - LinkedIn: https://www.linkedin.com/in/devrajsinh-gohil-8b0338208 <br>
   - Email: devcode03@gmail.com
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Devrajsinh03&count_private=true&show_icons=true&theme=light" width="400"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Devrajsinh03" width="400">
 <!---
 Devrajsinh03/Devrajsinh03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
