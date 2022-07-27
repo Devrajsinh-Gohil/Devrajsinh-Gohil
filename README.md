@@ -4,7 +4,7 @@
 - 💞️ Looking forward to collaborate on any interesting project in the field of computer technology.
 - 📫 How to reach me:<br>  
   - Instagram: @devrajsinhg0hil <br>
-  - LinkedIn: https://www.linkedin.com/in/devrajsinh-gohil-8b0338208 <br>
+  - LinkedIn: linkedin.com/in/devrajsinh <br>
   - Email: devcode03@gmail.com
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Devrajsinh03&count_private=true&show_icons=true&theme=light" width="400"/>
