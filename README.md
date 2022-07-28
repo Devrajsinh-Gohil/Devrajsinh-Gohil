@@ -1,3 +1,5 @@
+## About Me
+
 - 👋 Hi, I’m @Devrajsinh03
 - 👀 I’m interested in each and every type of technology and I love to code.
 - 🌱 Currently learning Computer Engineering as a freshman in a Government Engineering College.
@@ -7,7 +9,7 @@
   - LinkedIn: linkedin.com/in/devrajsinh <br>
   - Email: devcode03@gmail.com <br>
 
-## 📊 Github Stats
+## Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devrajsinh03&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
