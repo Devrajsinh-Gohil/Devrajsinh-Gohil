@@ -8,15 +8,16 @@
   - Email: devcode03@gmail.com <br>
 
 ## 📊 Github Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Devrajsinh03&count_private=true&show_icons=true&theme=light" width="400"/> 
-<br/>
-<br/>
-<br/>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Devrajsinh03" width="400">
 
-<a href="https://github.com/Devrajsinh03/github-readme-stats"><img alt="Devrajsinh03's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devrajsinh03&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devrajsinh03&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Devrajsinh03&theme=radical)](https://git.io/streak-stats)
+
+<a href="https://github.com/Devrajsinh03/github-readme-stats">
+  <img alt="Devrajsinh03's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devrajsinh03&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
+ <br/>
+ <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 <br/>
