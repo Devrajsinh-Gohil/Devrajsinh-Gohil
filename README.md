@@ -8,8 +8,8 @@
   - Email: devcode03@gmail.com <br>
 
 ## 📊 Github Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Devrajsinh03&count_private=true&show_icons=true&theme=light" width="400"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Devrajsinh03" width="400">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Devrajsinh03&count_private=true&show_icons=true&theme=light" width="400"/> <br/>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Devrajsinh03" width="400">
 
 <a href="https://github.com/Devrajsinh03/github-readme-stats"><img alt="Devrajsinh03's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devrajsinh03&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
