@@ -15,7 +15,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Devrajsinh03&theme=radical)](https://git.io/streak-stats)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Devrajsinh03&theme=redical)](https://github.com/Devrajsinh03/github-readme-activity-graph)
 
 <a href="https://github.com/Devrajsinh03/github-readme-stats">
   <img alt="Devrajsinh03's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devrajsinh03&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
