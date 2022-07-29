@@ -13,7 +13,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devrajsinh03&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Devrajsinh03&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Devrajsinh03&theme=radical&fire=fc7c03)](https://git.io/streak-stats)
 
 
 <a href="https://github.com/Devrajsinh03/github-readme-stats">
