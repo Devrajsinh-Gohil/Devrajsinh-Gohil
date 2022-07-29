@@ -1,13 +1,14 @@
 ## About Me
 
-- 👋 Hi, I’m @Devrajsinh03
+- 👋 Hi, I’m <b>@Devrajsinh03</b>
 - 👀 I’m interested in each and every type of technology and I love to code.
 - 🌱 Currently learning Computer Engineering as a freshman in a Government Engineering College.
 - 💞️ Looking forward to collaborate on any interesting project in the field of computer technology.
-- 📫 How to reach me:<br>  
-  - Instagram: @devrajsinhg0hil <br>
-  - LinkedIn: linkedin.com/in/devrajsinh <br>
-  - Email: devcode03@gmail.com <br>
+- 📫 Let's Connect:<br>  
+  <a href="https://www.linkedin.com/in/devrajsinh/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://www.instagram.com/devrajsinhg0hil/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
+  <a href="https://twitter.com/DevrajsinhGohi5" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+  <a href="devrajsinhgohil03@gmail.com" target=_blank ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
 
 ## Github Stats
 
