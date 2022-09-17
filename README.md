@@ -1,7 +1,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 <br>
 <p align="center">
-    <h1 align="center">✩&emsp;Devrajsinh03&emsp;✩</h1>
+    <h1 align="center">✩ Devrajsinh03 ✩</h1>
 </p>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;Welcome+to+my+Profile%2C;Hope+you+find;something+Helpful...&font=Fira%20+Code&pause=1000&color=%23D62F79&center=true&width=280&height=50">
@@ -11,7 +11,7 @@
     <img id="preview" src="https://komarev.com/ghpvc/?username=Devrajsinh03">
 </p>
 <p align="center">
-    <a href="https://leetcode.com/Devrajsinh/"><img width="48%" src="https://leetcode.card.workers.dev/Devrajsinh?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+    <a href="https://leetcode.com/Devrajsinh/"><img width="60%" src="https://leetcode.card.workers.dev/Devrajsinh?theme=dark&font=baloo&extension=null&border=3&border_radius=5"></a>
 </p>
 
 
