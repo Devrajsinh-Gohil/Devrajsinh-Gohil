@@ -28,7 +28,7 @@
   <a href="https://twitter.com/DevrajsinhGohi5" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 
 ## Github Stats
--- <img align="right" src="https://user-images.githubusercontent.com/103804567/192030240-13f83280-e25a-498a-9e4d-50009c2b5f4e.png" width="40%">
+<img align="right" src="https://user-images.githubusercontent.com/103804567/192030240-13f83280-e25a-498a-9e4d-50009c2b5f4e.png" width="40%" style="display:inline;">
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devrajsinh03&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
