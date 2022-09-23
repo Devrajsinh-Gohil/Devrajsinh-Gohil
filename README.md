@@ -29,6 +29,7 @@
 
 ## Github Stats
 <img align="right" src="https://user-images.githubusercontent.com/103804567/192030240-13f83280-e25a-498a-9e4d-50009c2b5f4e.png" width="40%">
+<p align="left">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devrajsinh03&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -37,6 +38,7 @@
 <a href="https://github.com/Devrajsinh03/github-readme-stats">
   <img alt="Devrajsinh03's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devrajsinh03&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
+</p>
  <br/>
  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
