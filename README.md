@@ -8,7 +8,6 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;Welcome+to+my+Profile%2C;Hope+you+find;something+Helpful...&font=Fira%20+Code&pause=1000&color=%23D62F79&center=true&width=280&height=50">
 </p>
-
 <br>
 <p align="center">
     <img id="preview" src="https://komarev.com/ghpvc/?username=Devrajsinh03">
@@ -30,6 +29,8 @@
   <a href="https://twitter.com/DevrajsinhGohi5" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 
 ## Github Stats
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Devrajsinh03&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devrajsinh03&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
