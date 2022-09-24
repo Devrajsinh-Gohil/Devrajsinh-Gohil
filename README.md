@@ -2,15 +2,20 @@
 <br>
 <span align="center">
     <h1 align="center">✩ Devrajsinh03 ✩</h1>
+    <img align="left" src="https://user-images.githubusercontent.com/103804567/192110957-526b674a-8c54-4cff-8e4e-b47127091dda.png" width="30%" >
 </span>
+
+
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;Welcome+to+my+Profile%2C;Hope+you+find;something+Helpful...&font=Fira%20+Code&pause=1000&color=%23D62F79&center=true&width=280&height=50">
 </p>
+
 <br>
 <p align="center">
     <img id="preview" src="https://komarev.com/ghpvc/?username=Devrajsinh03">
 </p>
-<p align="center">
+<p align="center">![image](https://user-images.githubusercontent.com/103804567/192111921-e47cc851-3118-4cd0-9aa7-f686e169de2a.gif)
+
     <a href="https://leetcode.com/Devrajsinh/"><img width="70%" src="https://leetcode.card.workers.dev/Devrajsinh?theme=dark&font=baloo&extension=null&border=2&border_radius=5"></a>
 </p>
 
