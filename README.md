@@ -13,11 +13,9 @@
 <p align="center">
     <img id="preview" src="https://komarev.com/ghpvc/?username=Devrajsinh03">
 </p>
-<p align="center">![image](https://user-images.githubusercontent.com/103804567/192111921-e47cc851-3118-4cd0-9aa7-f686e169de2a.gif)
 
-    <a href="https://leetcode.com/Devrajsinh/"><img width="70%" src="https://leetcode.card.workers.dev/Devrajsinh?theme=dark&font=baloo&extension=null&border=2&border_radius=5"></a>
-</p>
-
+<br>
+<br>
 
 
 ## About Me
