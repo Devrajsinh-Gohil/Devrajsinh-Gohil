@@ -2,7 +2,6 @@
 <br>
 <span align="center">
     <h1 align="center">✩ Devrajsinh03 ✩</h1>
-    <img align="left" src="https://user-images.githubusercontent.com/103804567/192110957-526b674a-8c54-4cff-8e4e-b47127091dda.png" width="30%" >
 </span>
 
 
