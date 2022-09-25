@@ -3,8 +3,6 @@
 <span align="center">
     <h1 align="center">✩ Devrajsinh03 ✩</h1>
 </span>
-
-
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;Welcome+to+my+Profile%2C;Hope+you+find;something+Helpful...&font=Fira%20+Code&pause=1000&color=%23D62F79&center=true&width=280&height=50">
 </p>
@@ -12,7 +10,6 @@
 <p align="center">
     <img id="preview" src="https://komarev.com/ghpvc/?username=Devrajsinh03">
 </p>
-
 <br>
 <br>
 
@@ -39,6 +36,26 @@
 <a href="https://github.com/Devrajsinh03/github-readme-stats">
   <img alt="Devrajsinh03's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devrajsinh03&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
+
+<!--START_SECTION:waka-->
+name: Waka Readme
+
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.85e0a069-9998-49c6-be14-244912704c2f }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+<!--END_SECTION:waka-->
+
  <br/>
  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
