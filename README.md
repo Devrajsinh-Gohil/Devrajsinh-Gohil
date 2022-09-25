@@ -40,12 +40,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-97-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 920 Contributions in the Year 2022
+> 🏆 921 Contributions in the Year 2022
  > 
-> 📦 71.1 kB Used in GitHub's Storage 
+> 📦 71.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,7 +71,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Devrajsinh03/Devrajsinh03/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/09/2022 16:47:01 UTC
+ Last Updated on 25/09/2022 18:52:50 UTC
 <!--END_SECTION:waka-->
 
  <br/>
