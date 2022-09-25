@@ -38,6 +38,40 @@
 </a>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-66-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 920 Contributions in the Year 2022
+ > 
+> 📦 71.1 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 15 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I Mostly Code in C++** 
+
+```text
+C++                      5 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+C                        4 repos             ██████░░░░░░░░░░░░░░░░░░░   26.67% 
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/Devrajsinh03/Devrajsinh03/main/charts/bar_graph.png) 
+
+
+ Last Updated on 25/09/2022 16:47:01 UTC
 <!--END_SECTION:waka-->
 
  <br/>
