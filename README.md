@@ -14,7 +14,7 @@
 <br>
 
 
-## About Me![image](https://user-images.githubusercontent.com/103804567/193390032-fb77846a-9f23-422f-ba3f-9383c2875928.png)
+## About Me
 
 
 - 👋 Hi, I’m <b>@Devrajsinh03</b>
