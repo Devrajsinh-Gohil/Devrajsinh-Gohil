@@ -14,7 +14,8 @@
 <br>
 
 
-## About Me
+## About Me![image](https://user-images.githubusercontent.com/103804567/193390032-fb77846a-9f23-422f-ba3f-9383c2875928.png)
+
 
 - 👋 Hi, I’m <b>@Devrajsinh03</b>
 - 👀 I’m interested in each and every type of technology and I love to code.
@@ -43,6 +44,9 @@
 
 <br/>
 <br/>
+
+## Badges
+[![@devrajsinh03's Holopin board](https://holopin.io/api/user/board?user=devrajsinh03)](https://holopin.io/@devrajsinh03)
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
