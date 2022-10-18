@@ -8,7 +8,9 @@
 </p>
 <br>
 <p align="center">
-    <img id="preview" src="https://komarev.com/ghpvc/?username=Devrajsinh03">
+    <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Devrajsinh03&label=Profile%20Views&color=0&icon=0&pretty=true" />
+</a>
 </p>
 <br>
 <br>
@@ -49,9 +51,7 @@
 [![@devrajsinh03's Holopin board](https://holopin.io/api/user/board?user=devrajsinh03)](https://holopin.io/@devrajsinh03)
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Devrajsinh03">
-</a>
+[![](https://visitcount.itsvg.in/api?id=Devrajsinh03&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 <a href="https://github.com/Devrajsinh03?tab=followers"><img src="https://img.shields.io/github/followers/Devrajsinh03?label=Followers&style=social" alt="GitHub Badge"></a>
 <!---
 Devrajsinh03/Devrajsinh03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
