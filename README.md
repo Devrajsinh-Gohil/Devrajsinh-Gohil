@@ -15,7 +15,12 @@
 <br>
 <br>
 
-
+        
+<div align="center">
+    
+<img src = "https://raw.githubusercontent.com/Devrajsinh03/Devrajsinh03/9b56cbb21d32c132f047351b615ac99a99249be3/gitartwork.svg">
+    
+</div>
 ## About Me
 
 
