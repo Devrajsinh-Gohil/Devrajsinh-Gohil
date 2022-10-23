@@ -36,6 +36,10 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Devrajsinh03&theme=radical&fire=fc7c03)](https://git.io/streak-stats)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Devrajsinh03&theme=dracula)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devrajsinh03&theme=dracula)
+
 <a href="https://github.com/Devrajsinh03/github-readme-stats">
   <img alt="Devrajsinh03's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devrajsinh03&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
