@@ -32,10 +32,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Devrajsinh03&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devrajsinh03&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Devrajsinh03&theme=radical&fire=fc7c03)](https://git.io/streak-stats)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Devrajsinh03&theme=dracula)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devrajsinh03&theme=dracula)
