@@ -41,10 +41,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devrajsinh-Gohil&theme=dracula)
 
-<a href="https://github.com/Devrajsinh-Gohil/github-readme-stats">
-  <img alt="Devrajsinh-Gohil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devrajsinh-Gohil
-&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devrajsinh-Gohil&layout=compact&theme=dracula&hide_border=true)](https://github.com/Devrajsinh-Gohil/github-readme-stats)
 
  <br/>
  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
