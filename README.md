@@ -7,11 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;Welcome+to+my+Profile%2C;Hope+you+find;something+Helpful...&font=Fira%20+Code&pause=1000&color=%23D62F79&center=true&width=280&height=50">
 </p>
 <br>
-<p align="center">
-    <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Devrajsinh-Gohil&label=Profile%20Views&color=0&icon=0&pretty=true" />
-</a>
-</p>
+   
 <br>
 <br>
 
@@ -34,6 +30,7 @@
   <a href="https://twitter.com/DevrajsinhGohi5" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 
 ## Github Stats
+![](https://komarev.com/ghpvc/?username=Devrajsinh-Gohil)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Devrajsinh-Gohil&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
