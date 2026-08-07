@@ -28,17 +28,17 @@ $ cat about.me
 ```
 
 ```
-╭────────────────────────────────────────────────────────────────╮
-│                                                                │
-│   name    Devrajsinh Gohil                                     │
-│   role    AI Engineer  ·  Full-Stack Developer                 │
-│   study   M.Tech ICT @ Dhirubhai Ambani University  [8.75]     │
-│   work    AI Intern @ JSW Steel  ·  Intern @ Tark Tech         │
-│   built   LLM agents  ·  AI SaaS  ·  Agentic systems           │
-│   creds   GATE DA AIR 1,519  ·  SIH 2024 Finalist              │
-│   badge   Microsoft Learn Student Ambassador (Beta)            │
-│                                                                │
-╰────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────╮
+│                                                                      │
+│   name    Devrajsinh Gohil                                           │
+│   role    AI Engineer  ·  Full-Stack Developer                       │
+│   study   M.Tech ICT @ Dhirubhai Ambani University  [CGPA: 9.09]     │
+│   work    AI Intern @ JSW Steel  ·  Intern @ Tark Tech               │
+│   built   LLM agents  ·  AI SaaS  ·  Agentic systems                 │
+│   creds   GATE DA AIR 1,519  ·  SIH 2024 Finalist                    │
+│   badge   Microsoft Learn Student Ambassador (Beta)                  │
+│                                                                      │
+╰──────────────────────────────────────────────────────────────────────╯
 ```
 
 <br>
