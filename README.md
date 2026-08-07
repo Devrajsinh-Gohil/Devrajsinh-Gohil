@@ -113,7 +113,7 @@ TOOLS      =  ["Git", "VS Code", "Linux", "Postman"]
   GATE DA 2024      →   AIR 1,519                      (national-level CS exam)
   SIH 2024          →   National Finalist              (Govt. of India)
   Industry          →   AI Intern @ JSW Steel          (Jan – Apr 2025)
-  M.Tech CPI        →   8.75 / 10                      (Dhirubhai Ambani Univ.)
+  M.Tech CPI        →   9.09 / 10                      (Dhirubhai Ambani Univ.)
   B.E. CPI          →   8.20 / 10                      (GECR / GTU)
   MLSA              →   Beta Ambassador                (Microsoft, 2022 – 2025)
 ```
